@@ -1,0 +1,14 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "824c724b-7b87-4fc9-9c83-32f6ac16d7bc": {
+    "name": "About",
+    "route": "/About"
+  },
+  "80631c56-33c3-4f04-8cf0-48d21642f348": {
+    "name": "Menu",
+    "route": "/Menu"
+  }
+}
